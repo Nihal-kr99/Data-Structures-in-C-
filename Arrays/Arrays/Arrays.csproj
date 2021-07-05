@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>Arrays.LeftRotation</StartupObject>
+    <StartupObject>Arrays.ArrayRotationByReverseAlgo</StartupObject>
   </PropertyGroup>
 
 </Project>
